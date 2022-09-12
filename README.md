@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DW-Arthur
-- 🌱 I’m currently Interning at Nokia as a Software Developer Intern
-- 💞️ I’m looking for Fall 2022 Internships
+- 🌱 I’m currently Interning at Blindside Networks as a Software Developer Intern
+- 💞️ I’m looking for Winter 2023 Internships
 - 📫 You can reach me at https://www.linkedin.com/in/daniel-shujian-wang/
 
 <!---
